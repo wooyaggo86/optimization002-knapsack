@@ -1,4 +1,4 @@
-#include "object.h"
+#include "Object.h"
 
 Object::Object(int value, int weight) {
   this->value = value;
